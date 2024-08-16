@@ -35,4 +35,3 @@ function handleLinkClick(event) {
 }
 
 loginForm.addEventListener("submit", onLoginSubmit);
-link.addEventListener("click", handleLinkClick)
